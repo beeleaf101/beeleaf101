@@ -35,7 +35,7 @@ Computer Science developer working across **full-stack development, IoT systems,
 ### `> contribution_city_`
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D skyline generated from real GitHub contributions" />
+  <img src="./profile-3d-contrib/profile-night-green.svg?v=neon-20261020" width="100%" alt="3D skyline generated from real GitHub contributions" />
   <sub>🌃 Generated from your real GitHub contributions and refreshed automatically every day.</sub>
 </div>
 
