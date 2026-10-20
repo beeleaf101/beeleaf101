@@ -36,7 +36,7 @@ Computer Science developer working across **full-stack development, IoT systems,
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D skyline generated from real GitHub contributions" />
-  <sub>🌃 Automatically regenerated every day using your public GitHub contribution data. Run the included workflow once to activate it.</sub>
+  <sub>🌃 Generated from your real GitHub contributions and refreshed automatically every day.</sub>
 </div>
 
 ### `> my_technology_`
